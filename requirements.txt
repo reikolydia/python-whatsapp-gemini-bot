@@ -1,3 +1,11 @@
 flask
 python-dotenv
 openai
+requests
+aiohttp
+setuptools
+google
+google-cloud
+google-api-core
+google-generativeai
+google-api-python-client

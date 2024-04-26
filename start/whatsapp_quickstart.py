@@ -93,7 +93,6 @@ response = send_message(data)
 # Send a custom text WhatsApp message asynchronously
 # --------------------------------------------------------------
 
-
 # Does not work with Jupyter!
 async def send_message(data):
     headers = {
